@@ -1,0 +1,108 @@
+{
+    "alphabet":[
+        {
+            "character": "a",
+            "value":[true, false, false, false, false, false]
+        },
+        {
+            "character": "b",
+            "value":[true, true, false, false, false, false]
+        },
+        {
+            "character": "c",
+            "value":[true, false, false, true, false, false]
+        },
+        {
+            "character": "d",
+            "value":[true, false, false, true, true, false]
+        },
+        {
+            "character": "e",
+            "value":[true, false, false, false, true, false]
+        },
+        {
+            "character": "f",
+            "value":[true, true, false, true, false, false]
+        },
+        {
+            "character": "g",
+            "value":[true, true, false, true, true, false]
+        },
+        {
+            "character": "h",
+            "value":[true, true, false, false, true, false]
+        },
+        {
+            "character": "i",
+            "value":[false, true, false, true, false, false]
+        },
+        {
+            "character": "j",
+            "value":[false, true, false, true, true, false]
+        },
+        {
+            "character": "k",
+            "value":[true, false, true, false, false, false]
+        },
+        {
+            "character": "l",
+            "value":[true, true, true, false, false, false]
+        },
+        {
+            "character": "m",
+            "value":[true, false, true, true, false, false]
+        },
+        {
+            "character": "n",
+            "value":[true, false, true, true, true, false]
+        },
+        {
+            "character": "o",
+            "value":[true, false, true, false, true, false]
+        },
+        {
+            "character": "p",
+            "value":[true, true, true, true, false, false]
+        },
+        {
+            "character": "q",
+            "value":[true, true, true, true, true, false]
+        },
+        {
+            "character": "r",
+            "value":[true, true, true, false, true, false]
+        },
+        {
+            "character": "s",
+            "value":[false, true, true, true, false, false]
+        },
+        {
+            "character": "t",
+            "value":[false, true, true, true, true, false]
+        },
+        {
+            "character": "u",
+            "value":[true, false, true, false, false, true]
+        },
+        {
+            "character": "v",
+            "value":[true, true, true, false, false, true]
+        },
+        {
+            "character": "w",
+            "value":[false, true, false, true, true, true]
+        },
+        {
+            "character": "x",
+            "value":[true, false, true, true, false, true]
+        },
+        {
+            "character": "y",
+            "value":[true, false, true, true, true, true]
+        },
+        {
+            "character": "z",
+            "value":[true, false, true, false, true, true]
+        }
+    ]
+}

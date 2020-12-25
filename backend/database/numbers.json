@@ -1,0 +1,44 @@
+{
+    "numbers":[
+        {
+            "character": 1,
+            "value":[true, false, false, false, false, false]
+        },
+        {
+            "character": 2,
+            "value":[true, true, false, false, false, false]
+        },
+        {
+            "character": 3,
+            "value":[true, false, false, true, false, false]
+        },
+        {
+            "character": 4,
+            "value":[true, false, false, true, true, false]
+        },
+        {
+            "character": 5,
+            "value":[true, false, false, false, true, false]
+        },
+        {
+            "character": 6,
+            "value":[true, true, false, true, false, false]
+        },
+        {
+            "character": 7,
+            "value":[true, true, false, true, true, false]
+        },
+        {
+            "character": 8,
+            "value":[true, true, false, false, true, false]
+        },
+        {
+            "character": 9,
+            "value":[false, true, false, true, false, false]
+        },
+        {
+            "character": 0,
+            "value":[false, true, false, true, true, false]
+        }
+    ]
+}

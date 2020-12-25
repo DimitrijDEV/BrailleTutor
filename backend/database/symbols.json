@@ -1,0 +1,48 @@
+{
+    "symbols":[
+        {
+            "character": ",",
+            "value":[false, true, false, false, false, false]
+        },
+        {
+            "character": ";",
+            "value":[false, true, true, false, false, false]
+        },
+        {
+            "character": ":",
+            "value":[false, true, false, false, true, false]
+        },
+        {
+            "character": ".",
+            "value":[false, true, false, false, true, true]
+        },
+        {
+            "character": "!",
+            "value":[false, true, true, false, true, false]
+        },
+        {
+            "character": "()",
+            "value":[true, true, true, true, true, false]
+        },
+        {
+            "character": "?",
+            "value":[true, true, true, false, false, true]
+        },
+        {
+            "character": "*",
+            "value":[true, false, true, false, true, false]
+        },
+        {
+            "character": "\"",
+            "value":[true, false, true, false, true, true]
+        },
+        {
+            "character": "'",
+            "value":[true, false, true, false, false, false]
+        },
+        {
+            "character": "-",
+            "value":[true, false, true, false, false, true]
+        }
+    ]
+}

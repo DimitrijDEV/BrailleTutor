@@ -1,0 +1,136 @@
+{
+    "words":[
+        {
+            "word": "a",
+            "value":[true, false, false, false, false, false]
+        },
+        {
+            "word": "but",
+            "value":[true, true, false, false, false, false]
+        },
+        {
+            "word": "can",
+            "value":[true, false, false, true, false, false]
+        },
+        {
+            "word": "do",
+            "value":[true, false, false, true, true, false]
+        },
+        {
+            "word": "every",
+            "value":[true, false, false, false, true, false]
+        },
+        {
+            "word": "from",
+            "value":[true, true, false, true, false, false]
+        },
+        {
+            "word": "go",
+            "value":[true, true, false, true, true, false]
+        },
+        {
+            "word": "have",
+            "value":[true, true, false, false, true, false]
+        },
+        {
+            "word": "just",
+            "value":[false, true, false, true, true, false]
+        },
+        {
+            "word": "knowledge",
+            "value":[true, false, true, false, false, false]
+        },
+        {
+            "word": "like",
+            "value":[true, true, true, false, false, false]
+        },
+        {
+            "word": "more",
+            "value":[true, false, true, true, false, false]
+        },
+        {
+            "word": "not",
+            "value":[true, false, true, true, true, false]
+        },
+        {
+            "word": "people",
+            "value":[true, true, true, true, false, false]
+        },
+        {
+            "word": "quite",
+            "value":[true, true, true, true, true, false]
+        },
+        {
+            "word": "rather",
+            "value":[true, true, true, false, true, false]
+        },
+        {
+            "word": "so",
+            "value":[false, true, true, true, false, false]
+        },
+        {
+            "word": "that",
+            "value":[false, true, true, true, true, false]
+        },
+        {
+            "word": "us",
+            "value":[true, false, true, false, false, true]
+        },
+        {
+            "word": "very",
+            "value":[true, true, true, false, false, true]
+        },
+        {
+            "word": "will",
+            "value":[false, true, false, true, true, true]
+        },
+        {
+            "word": "it",
+            "value":[true, false, true, true, false, true]
+        },
+        {
+            "word": "you",
+            "value":[true, false, true, true, true, true]
+        },
+        {
+            "word": "as",
+            "value":[true, false, true, false, true, true]
+        },
+        {
+            "word": "and",
+            "value":[true, true, true, true, false, true]
+        },
+        {
+            "word": "for",
+            "value":[true, true, true, true, true, true]
+        },
+        {
+            "word": "of",
+            "value":[true, true, true, false, true, true]
+        },
+        {
+            "word": "the",
+            "value":[false, true, true, true, false, true]
+        },
+        {
+            "word": "with",
+            "value":[false, true, true, true, true, true]
+        },
+        {
+            "word": "child",
+            "value":[true, false, false, false, false, true]
+        },
+        {
+            "word": "shall",
+            "value":[true, false, false, true, false, true]
+        },
+        {
+            "word": "this",
+            "value":[true, false, false, true, true, true]
+        },
+        {
+            "word": "which",
+            "value":[true, false, false, false, true, true]
+        }
+    ]
+}
