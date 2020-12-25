@@ -1,135 +1,135 @@
 {
     "words":[
         {
-            "word": "a",
+            "character": "a",
             "value":[true, false, false, false, false, false]
         },
         {
-            "word": "but",
+            "character": "but",
             "value":[true, true, false, false, false, false]
         },
         {
-            "word": "can",
+            "character": "can",
             "value":[true, false, false, true, false, false]
         },
         {
-            "word": "do",
+            "character": "do",
             "value":[true, false, false, true, true, false]
         },
         {
-            "word": "every",
+            "character": "every",
             "value":[true, false, false, false, true, false]
         },
         {
-            "word": "from",
+            "character": "from",
             "value":[true, true, false, true, false, false]
         },
         {
-            "word": "go",
+            "character": "go",
             "value":[true, true, false, true, true, false]
         },
         {
-            "word": "have",
+            "character": "have",
             "value":[true, true, false, false, true, false]
         },
         {
-            "word": "just",
+            "character": "just",
             "value":[false, true, false, true, true, false]
         },
         {
-            "word": "knowledge",
+            "character": "knowledge",
             "value":[true, false, true, false, false, false]
         },
         {
-            "word": "like",
+            "character": "like",
             "value":[true, true, true, false, false, false]
         },
         {
-            "word": "more",
+            "character": "more",
             "value":[true, false, true, true, false, false]
         },
         {
-            "word": "not",
+            "character": "not",
             "value":[true, false, true, true, true, false]
         },
         {
-            "word": "people",
+            "character": "people",
             "value":[true, true, true, true, false, false]
         },
         {
-            "word": "quite",
+            "character": "quite",
             "value":[true, true, true, true, true, false]
         },
         {
-            "word": "rather",
+            "character": "rather",
             "value":[true, true, true, false, true, false]
         },
         {
-            "word": "so",
+            "character": "so",
             "value":[false, true, true, true, false, false]
         },
         {
-            "word": "that",
+            "character": "that",
             "value":[false, true, true, true, true, false]
         },
         {
-            "word": "us",
+            "character": "us",
             "value":[true, false, true, false, false, true]
         },
         {
-            "word": "very",
+            "character": "very",
             "value":[true, true, true, false, false, true]
         },
         {
-            "word": "will",
+            "character": "will",
             "value":[false, true, false, true, true, true]
         },
         {
-            "word": "it",
+            "character": "it",
             "value":[true, false, true, true, false, true]
         },
         {
-            "word": "you",
+            "character": "you",
             "value":[true, false, true, true, true, true]
         },
         {
-            "word": "as",
+            "character": "as",
             "value":[true, false, true, false, true, true]
         },
         {
-            "word": "and",
+            "character": "and",
             "value":[true, true, true, true, false, true]
         },
         {
-            "word": "for",
+            "character": "for",
             "value":[true, true, true, true, true, true]
         },
         {
-            "word": "of",
+            "character": "of",
             "value":[true, true, true, false, true, true]
         },
         {
-            "word": "the",
+            "character": "the",
             "value":[false, true, true, true, false, true]
         },
         {
-            "word": "with",
+            "character": "with",
             "value":[false, true, true, true, true, true]
         },
         {
-            "word": "child",
+            "character": "child",
             "value":[true, false, false, false, false, true]
         },
         {
-            "word": "shall",
+            "character": "shall",
             "value":[true, false, false, true, false, true]
         },
         {
-            "word": "this",
+            "character": "this",
             "value":[true, false, false, true, true, true]
         },
         {
-            "word": "which",
+            "character": "which",
             "value":[true, false, false, false, true, true]
         }
     ]

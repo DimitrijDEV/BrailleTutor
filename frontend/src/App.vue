@@ -1,32 +1,65 @@
 <template>
   <div id="app">
-    <div id="nav">
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
-    </div>
+    <Header />
     <router-view/>
   </div>
 </template>
 
+<script lang="ts">
+import { Component, Vue } from "vue-property-decorator";
+import Header from "./views/Header.vue";
+
+@Component({
+  components: {
+    Header
+  },
+})
+export default class App extends Vue {}
+</script>
+
+ 
 <style lang="scss">
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto", sans-serif;
 }
 
-#nav {
-  padding: 30px;
+li {
+  list-style: none;
+}
 
-  a {
-    font-weight: bold;
-    color: #2c3e50;
+a {
+  color: black;
+  text-decoration: none;
+  outline: none;
+  cursor: pointer;
+}
 
-    &.router-link-exact-active {
-      color: #42b983;
-    }
-  }
+button {
+  background: none;
+  cursor: pointer;
+  outline: none;
+  border: 1px solid black;
+}
+
+input {
+  border: 1px solid rgb(112, 112, 112);
+}
+
+html,
+body {
+  height: 100%;
+  margin: 0;
+}
+
+#app {
+  height: 100%;
+}
+
+.wrapper {
+  width: 700px;
+  margin: 0 auto;
 }
 </style>
+
