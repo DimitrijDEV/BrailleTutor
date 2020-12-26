@@ -1,12 +1,12 @@
 # BrailleTutor
 For the beginning we need to launch a backend side you have to do next steps:
 
--Open project in VS Code
--In a terminal type:
+- Open project in VS Code
+- In a terminal type:
   -cd backend
   -npm i
   -npm start
--When you will install packages and launch a server you will be able to use this API
+- When you will install packages and launch a server you will be able to use this API
 
 For launching a frontend side you need to do next steps:
 
